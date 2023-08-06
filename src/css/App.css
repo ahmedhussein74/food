@@ -1,0 +1,16 @@
+nav {
+  height: 50px;
+  transition: 1s all ease-in-out;
+}
+
+nav header {
+  height: 50px;
+}
+
+nav i {
+  height: 50px;
+}
+
+nav aside a {
+  height: 50px;
+}
